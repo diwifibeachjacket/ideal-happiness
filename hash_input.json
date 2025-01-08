@@ -1,0 +1,5 @@
+{
+  "channel_targets": "defaults",
+  "target_platform": "win-64",
+  "cxx_compiler": "vs2017"
+}
